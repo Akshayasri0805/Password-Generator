@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    margin: 0;
+}
+
+
+
+.inputs {
+    display: flex;
+    gap: 10px; 
+  }
+  
+  input {
+    padding: 8px;
+    flex: 1; 
+    margin-top: 50px;
+  }
+  
+  button {
+    padding: 10px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    
+    
+    
+  }
+  
